@@ -4,4 +4,4 @@ Demo :- [https://youtubethumbnaildownloader.geeksfortech.com](https://youtubethu
 
 Checkout tutorial on :- [https://geeksfortech.com/how-to-create-youtube-thumbnail-downloader](https://geeksfortech.com/how-to-create-youtube-thumbnail-downloader)
 
-![](public/cover.png "Demo Photo")
+![](https://youtubethumbnaildownloader.geeksfortech.com/cover.PNG "Demo Photo")

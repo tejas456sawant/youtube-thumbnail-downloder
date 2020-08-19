@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+Sitemap: https://youtubethumbnaildownloader.geeksfortech.com/sitemap.xml
+Host: https://youtubethumbnaildownloader.geeksfortech.com

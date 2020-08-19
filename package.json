@@ -1,5 +1,5 @@
 {
-  "name": "with-tailwindcss",
+  "name": "youtubethumbnaildownloader.geeksfortech.com",
   "version": "1.0.0",
   "scripts": {
     "dev": "next",
@@ -8,17 +8,15 @@
   },
   "dependencies": {
     "copy-to-clipboard": "^3.3.1",
-    "fs": "0.0.1-security",
-    "image-downloader": "^4.0.1",
     "next": "latest",
+    "next-seo": "^4.7.3",
     "react": "^16.13.1",
-    "react-dom": "^16.13.1",
-    "uuid": "^8.3.0"
+    "react-dom": "^16.13.1"
   },
   "devDependencies": {
     "postcss-flexbugs-fixes": "4.2.1",
     "postcss-preset-env": "^6.7.0",
-    "tailwindcss": "^1.6.0"
+    "tailwindcss": "^1.7.1"
   },
   "license": "MIT"
 }
